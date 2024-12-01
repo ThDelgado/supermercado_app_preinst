@@ -5,7 +5,7 @@ evaluacion
 m7_s11
 
 Para clonar:
-
+https://github.com/ThDelgado/supermercado_app_preinst.git
 
 Thelma Delgado
 
